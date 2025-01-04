@@ -30,7 +30,7 @@
 		"difflib": "npm:@ewoudenberg/difflib@0.1.0",
 		"discord.js": "14.17.0-dev.1727611463-e1012cc54",
 		"match-sorter": "8.0.0",
-		"mongoose": "8.9.2",
+		"mongoose": "8.9.3",
 		"mustache": "4.2.0",
 		"papaparse": "5.4.1",
 		"posthtml-parser": "0.12.1",
