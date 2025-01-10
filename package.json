@@ -32,7 +32,7 @@
 		"match-sorter": "8.0.0",
 		"mongoose": "8.9.2",
 		"mustache": "4.2.0",
-		"papaparse": "5.4.1",
+		"papaparse": "5.5.1",
 		"posthtml-parser": "0.12.1",
 		"strife.js": "4.2.0"
 	},
