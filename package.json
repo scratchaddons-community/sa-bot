@@ -28,7 +28,7 @@
 		"@twemoji/parser": "<=15.1.0",
 		"discord.js": "14.17.0-dev.1727611463-e1012cc54",
 		"match-sorter": "8.0.0",
-		"mongoose": "8.9.5",
+		"mongoose": "8.9.6",
 		"mustache": "4.2.0",
 		"posthtml-parser": "0.12.1",
 		"strife.js": "4.2.0"
